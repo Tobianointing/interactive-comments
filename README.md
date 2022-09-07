@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source code](https://github.com/tobianointing/interactive-comments)
+- Live Site URL: [ive site URL](https://interactive-commentsv2-35fhf58bd-tobianointing.vercel.app/)
 
 ## My process
 
@@ -160,7 +160,7 @@ export const useHandleCommentOrReply = (data: DataNode, setData: React.Dispatch<
 
 ## Author
 
-- Website - [Tobianointing](https://github.com/Tobianointing)
+- Website - [Tobianointing](https://tobianointing.github.io)
 - Frontend Mentor - [@Tobianointing](https://www.frontendmentor.io/profile/Tobianointing)
 - Twitter - [@elementkayode](https://www.twitter.com/elementkayode)
 
