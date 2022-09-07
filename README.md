@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source code](https://github.com/tobianointing/interactive-comments)
-- Live Site URL: [ive site URL](https://interactive-commentsv2-35fhf58bd-tobianointing.vercel.app/)
+- Live Site URL: [Live site URL](https://interactive-commentsv2-35fhf58bd-tobianointing.vercel.app/)
 
 ## My process
 
